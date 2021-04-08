@@ -30,6 +30,7 @@ body {
   display: inline-grid;
   margin: 1rem 2rem;
   box-shadow: 3px 4px #e04b52
+
 }
 
 .toy-avatar {
@@ -40,7 +41,7 @@ body {
 
 button {
   position: relative;
-  background-color: #e04b52;
+  background-color: #ffffff;
   border: none;
   border-radius: 5px;
   height: 3rem;
